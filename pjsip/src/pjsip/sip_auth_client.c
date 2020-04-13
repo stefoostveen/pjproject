@@ -1184,6 +1184,7 @@ PJ_DEF(pj_status_t) pjsip_auth_clt_reinit_req(	pjsip_auth_clt_sess *sess,
 	pjsip_authorization_hdr *hauth;
 
 	/* Find WWW-Authenticate or Proxy-Authenticate header. */
+
 	while (hdr != &rdata->msg_info.msg->hdr &&
 	       hdr->type != PJSIP_H_WWW_AUTHENTICATE &&
 	       hdr->type != PJSIP_H_PROXY_AUTHENTICATE)
@@ -1222,20 +1223,26 @@ PJ_DEF(pj_status_t) pjsip_auth_clt_reinit_req(	pjsip_auth_clt_sess *sess,
 	 */
 	status = process_auth(tdata->pool, hchal, tdata->msg->line.req.uri,
 			      tdata, sess, cached_auth, &hauth);
-	if (status != PJ_SUCCESS)
-	    return status;
+	if (status != PJ_SUCCESS){
+		// EDIT: Previously, pjsip analysed one www-auth header, and if it failed (due to unsupported sha-256 digest for example), it returned and did not consider the next www-auth header.
+		PJ_LOG(4,(THIS_FILE, "Invalid response, moving to next"));
+		//return status;
+		hdr = hdr->next;
+	}else{
+		if (pj_pool_get_used_size(cached_auth->pool) >
+			PJSIP_AUTH_CACHED_POOL_MAX_SIZE) 
+		{
+			recreate_cached_auth_pool(sess->endpt, cached_auth);
+		}	
 
-	if (pj_pool_get_used_size(cached_auth->pool) >
-	    PJSIP_AUTH_CACHED_POOL_MAX_SIZE) 
-	{
-	    recreate_cached_auth_pool(sess->endpt, cached_auth);
-	}	
+		/* Add to the message. */
+		pjsip_msg_add_hdr(tdata->msg, (pjsip_hdr*)hauth);
 
-	/* Add to the message. */
-	pjsip_msg_add_hdr(tdata->msg, (pjsip_hdr*)hauth);
+		/* Process next header. */
+		hdr = hdr->next;
+	}
 
-	/* Process next header. */
-	hdr = hdr->next;
+
     }
 
     /* Check if challenge is present */
