@@ -1,4 +1,4 @@
-# $Id: uac-ticket-1866-reinv-after-failed-nego.py 5130 2015-07-09 12:49:47Z nanang $
+# $Id$
 #
 import inc_const as const
 

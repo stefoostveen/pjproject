@@ -1,4 +1,4 @@
-/* $Id: aectest.c 5535 2017-01-19 10:31:38Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

@@ -1,4 +1,4 @@
-/* $Id: coreaudio_dev.m 6128 2020-01-08 08:55:30Z ming $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

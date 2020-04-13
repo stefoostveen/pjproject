@@ -1,4 +1,4 @@
-/* $Id: ios_opengl_dev.m 6138 2020-01-28 02:42:42Z nanang $ */
+/* $Id$ */
 /*
  * Copyright (C) 2013-2014 Teluu Inc. (http://www.teluu.com)
  *

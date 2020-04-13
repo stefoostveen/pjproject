@@ -1,4 +1,4 @@
-/* $Id: pcaputil.c 5664 2017-09-28 02:56:36Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

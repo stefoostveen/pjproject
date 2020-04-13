@@ -1,4 +1,4 @@
-/* $Id: timer.c 6146 2020-01-30 07:52:51Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>
@@ -963,9 +963,11 @@ int timer_test()
     if (rc != 0)
 	return rc;
 
+#if WITH_BENCHMARK
     rc = timer_bench_test();
     if (rc != 0)
 	return rc;
+#endif
 
     return 0;
 }

@@ -1,4 +1,4 @@
-/* $Id: sess_auth.c 5385 2016-07-15 02:56:21Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

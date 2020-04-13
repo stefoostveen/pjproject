@@ -1,4 +1,4 @@
-/* $Id: vid_streamutil.c 6110 2019-11-22 06:18:55Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2011 Teluu Inc. (http://www.teluu.com)
  *

@@ -1,4 +1,4 @@
-/* $Id: presence.hpp 6051 2019-08-15 05:11:41Z nanang $ */
+/* $Id$ */
 /*
  * Copyright (C) 2013 Teluu Inc. (http://www.teluu.com)
  *

@@ -1,4 +1,4 @@
-/* $Id: avi_stream.h 6112 2019-11-29 04:21:17Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

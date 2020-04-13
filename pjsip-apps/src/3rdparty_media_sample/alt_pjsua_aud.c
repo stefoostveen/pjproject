@@ -1,4 +1,4 @@
-/* $Id: alt_pjsua_aud.c 5657 2017-09-25 02:18:57Z ming $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

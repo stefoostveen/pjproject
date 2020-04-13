@@ -1,4 +1,4 @@
-/* $Id: activesock.c 5680 2017-11-03 06:54:54Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

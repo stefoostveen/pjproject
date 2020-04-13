@@ -1,4 +1,4 @@
-/* $Id: base64.c 5589 2017-05-04 05:22:44Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

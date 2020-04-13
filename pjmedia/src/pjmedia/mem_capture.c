@@ -1,4 +1,4 @@
-/* $Id: mem_capture.c 6132 2020-01-10 07:26:36Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

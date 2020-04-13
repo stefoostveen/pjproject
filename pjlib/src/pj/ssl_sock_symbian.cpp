@@ -1,4 +1,4 @@
-/* $Id: ssl_sock_symbian.cpp 4973 2015-01-15 06:55:02Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2009-2011 Teluu Inc. (http://www.teluu.com)
  *

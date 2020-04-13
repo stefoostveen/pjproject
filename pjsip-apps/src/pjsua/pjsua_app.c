@@ -1,4 +1,4 @@
-/* $Id: pjsua_app.c 6144 2020-01-29 04:40:45Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

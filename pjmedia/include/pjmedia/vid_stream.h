@@ -1,4 +1,4 @@
-/* $Id: vid_stream.h 6106 2019-11-13 09:11:04Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2011 Teluu Inc. (http://www.teluu.com)
  *
@@ -434,9 +434,9 @@ PJ_DECL(pj_status_t) pjmedia_vid_stream_send_keyframe(
 
 
 /**
- * Send RTCP SDES for the media stream.
+ * Send RTCP SDES for the video stream.
  *
- * @param stream	The media stream.
+ * @param stream	The video stream.
  *
  * @return		PJ_SUCCESS on success.
  */
@@ -445,14 +445,26 @@ PJ_DECL(pj_status_t) pjmedia_vid_stream_send_rtcp_sdes(
 
 
 /**
- * Send RTCP BYE for the media stream.
+ * Send RTCP BYE for the video stream.
  *
- * @param stream	The media stream.
+ * @param stream	The video stream.
  *
  * @return		PJ_SUCCESS on success.
  */
 PJ_DECL(pj_status_t) pjmedia_vid_stream_send_rtcp_bye(
 						pjmedia_vid_stream *stream);
+
+
+/**
+ * Send RTCP PLI for the video stream.
+ *
+ * @param stream	The video stream.
+ *
+ * @return		PJ_SUCCESS on success.
+ */
+PJ_DECL(pj_status_t) pjmedia_vid_stream_send_rtcp_pli(
+						pjmedia_vid_stream *stream);
+
 
 /**
  * Get the RTP session information of the video media stream. This function 

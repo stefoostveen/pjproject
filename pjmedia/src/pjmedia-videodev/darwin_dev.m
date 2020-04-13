@@ -1,4 +1,4 @@
-/* $Id: darwin_dev.m 6138 2020-01-28 02:42:42Z nanang $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

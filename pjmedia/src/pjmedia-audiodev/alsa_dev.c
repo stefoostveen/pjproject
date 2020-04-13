@@ -1,4 +1,4 @@
-/* $Id: alsa_dev.c 6057 2019-08-28 15:25:13Z riza $ */
+/* $Id$ */
 /*
  * Copyright (C) 2009-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2007-2009 Keystream AB and Konftel AB, All rights reserved.

@@ -1,4 +1,4 @@
-/* $Id: stun_session.h 6069 2019-09-12 08:46:05Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

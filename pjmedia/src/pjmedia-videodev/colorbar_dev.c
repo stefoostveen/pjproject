@@ -1,4 +1,4 @@
-/* $Id: colorbar_dev.c 5659 2017-09-25 02:58:42Z riza $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

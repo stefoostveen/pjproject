@@ -1,4 +1,4 @@
-/* $Id: vpx.c 6153 2020-02-04 05:08:14Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C)2019 Teluu Inc. (http://www.teluu.com)
  *

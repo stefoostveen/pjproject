@@ -1,4 +1,4 @@
-/* $Id: sip_inv.c 6087 2019-10-04 07:31:40Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

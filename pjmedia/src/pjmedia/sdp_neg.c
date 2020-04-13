@@ -1,4 +1,4 @@
-/* $Id: sdp_neg.c 6103 2019-11-08 10:17:16Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>
@@ -1172,6 +1172,12 @@ static pj_status_t match_offer(pj_pool_t *pool,
 		    if (!answer_with_multiple_codecs && found_matching_codec)
 			continue;
 		    is_codec = 1;
+		} else {
+		    if (!answer_with_multiple_codecs &&
+		        found_matching_telephone_event)
+		    {
+			continue;
+		    }
 		}
 		
 		/* Find paylaod in our initial SDP with matching 

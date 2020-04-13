@@ -1,4 +1,4 @@
-/* $Id: opengl_dev.c 4978 2015-01-27 05:01:15Z ming $ */
+/* $Id$ */
 /*
  * Copyright (C) 2013-2014 Teluu Inc. (http://www.teluu.com)
  *

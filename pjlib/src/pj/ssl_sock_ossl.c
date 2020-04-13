@@ -1,4 +1,4 @@
-/* $Id: ssl_sock_ossl.c 6148 2020-01-31 09:55:43Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2009-2011 Teluu Inc. (http://www.teluu.com)
  *
@@ -813,7 +813,12 @@ static pj_status_t ssl_create(pj_ssl_sock_t *ssock)
 	/** Check if TLSv1_2 is enabled */
 	ssl_opt |= ((ssock->param.proto & PJ_SSL_SOCK_PROTO_TLS1_2)==0)?
 		    SSL_OP_NO_TLSv1_2:0;
+#endif
 
+#ifdef SSL_OP_NO_TLSv1_3
+	/** Check if TLSv1_3 is enabled */
+	ssl_opt |= ((ssock->param.proto & PJ_SSL_SOCK_PROTO_TLS1_3)==0)?
+		    SSL_OP_NO_TLSv1_3:0;
 #endif
 
     }

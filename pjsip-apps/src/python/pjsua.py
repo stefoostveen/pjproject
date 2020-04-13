@@ -1,4 +1,4 @@
-# $Id: pjsua.py 5808 2018-06-21 04:15:24Z nanang $
+# $Id$
 #
 # Object oriented PJSUA wrapper.
 #

@@ -1,4 +1,4 @@
-# $Id: 260_multipart_err_no_sdp.py 5020 2015-03-24 09:25:12Z ismangil $
+# $Id$
 import inc_sip as sip
 import inc_sdp as sdp
 

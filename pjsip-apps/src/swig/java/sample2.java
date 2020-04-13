@@ -1,4 +1,4 @@
-/* $Id: sample2.java 6086 2019-10-04 06:59:57Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2013 Teluu Inc. (http://www.teluu.com)
  *

@@ -1,4 +1,4 @@
-/* $Id: srtp_err.c 5614 2017-07-04 05:22:51Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2003-2007 Benny Prijono <benny@prijono.org>
  *

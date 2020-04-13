@@ -1,4 +1,4 @@
-/* $Id: vid_stream_info.c 6106 2019-11-13 09:11:04Z nanang $ */
+/* $Id$ */
 /*
  * Copyright (C) 2011 Teluu Inc. (http://www.teluu.com)
  *

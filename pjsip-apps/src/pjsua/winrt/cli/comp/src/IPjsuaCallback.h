@@ -1,4 +1,4 @@
-/* $Id: IPjsuaCallback.h 5511 2016-12-28 03:04:28Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

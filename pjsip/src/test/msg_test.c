@@ -1,4 +1,4 @@
-/* $Id: msg_test.c 5848 2018-07-30 02:32:25Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

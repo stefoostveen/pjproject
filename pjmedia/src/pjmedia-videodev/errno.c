@@ -1,4 +1,4 @@
-/* $Id: errno.c 4613 2013-10-08 09:08:13Z bennylp $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

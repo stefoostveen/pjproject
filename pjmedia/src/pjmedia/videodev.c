@@ -1,4 +1,4 @@
-/* $Id: videodev.c 6117 2019-12-10 03:55:51Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

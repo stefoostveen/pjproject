@@ -1,4 +1,4 @@
-/* $Id: turn_sock.c 6157 2020-02-05 03:05:30Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

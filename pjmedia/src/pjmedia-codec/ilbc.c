@@ -1,4 +1,4 @@
-/* $Id: ilbc.c 5674 2017-10-16 10:20:18Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

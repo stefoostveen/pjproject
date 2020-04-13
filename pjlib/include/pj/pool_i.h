@@ -1,4 +1,4 @@
-/* $Id: pool_i.h 6058 2019-09-03 02:10:45Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

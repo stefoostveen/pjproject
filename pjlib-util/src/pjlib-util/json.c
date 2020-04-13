@@ -1,4 +1,4 @@
-/* $Id: json.c 5818 2018-07-03 09:31:27Z ming $ */
+/* $Id$ */
 /*
  * Copyright (C) 2013 Teluu Inc. (http://www.teluu.com)
  *

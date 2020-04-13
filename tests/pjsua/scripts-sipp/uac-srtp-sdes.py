@@ -1,4 +1,4 @@
-# $Id: uac-srtp-sdes.py 5855 2018-08-15 02:44:53Z nanang $
+# $Id$
 #
 import inc_const as const
 

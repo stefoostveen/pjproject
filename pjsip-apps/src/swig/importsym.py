@@ -1,4 +1,4 @@
-# $Id: importsym.py 6075 2019-09-24 11:12:45Z nanang $
+# $Id$
 #
 # importsym.py: Import C symbol decls (structs, enums, etc) and write them
 #               to another file 

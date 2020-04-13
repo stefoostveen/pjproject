@@ -1,4 +1,4 @@
-# $Id: uas-reinv-with-less-media.py 5844 2018-07-26 03:37:08Z nanang $
+# $Id$
 #
 import inc_const as const
 

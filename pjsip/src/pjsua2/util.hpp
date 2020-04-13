@@ -1,4 +1,4 @@
-/* $Id: util.hpp 5972 2019-04-23 10:49:56Z nanang $ */
+/* $Id$ */
 /*
  * Copyright (C) 2013 Teluu Inc. (http://www.teluu.com)
  *

@@ -1,4 +1,4 @@
-/* $Id: sock_qos_darwin.c 5658 2017-09-25 02:25:39Z nanang $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

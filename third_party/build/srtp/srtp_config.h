@@ -1,4 +1,4 @@
-/* $Id: srtp_config.h 5635 2017-08-01 07:49:34Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2003-2007 Benny Prijono <benny@prijono.org>
  *

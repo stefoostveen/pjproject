@@ -1,4 +1,4 @@
-/* $Id: ssl_sock.h 6004 2019-05-24 03:32:17Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2009-2011 Teluu Inc. (http://www.teluu.com)
  *
@@ -707,6 +707,11 @@ typedef enum pj_ssl_sock_proto
      * TLSv1.2 protocol.
      */
     PJ_SSL_SOCK_PROTO_TLS1_2  = (1 << 4),
+
+    /**
+     * TLSv1.3 protocol.
+     */
+    PJ_SSL_SOCK_PROTO_TLS1_3  = (1 << 5),
 
     /** 
      * Certain backend implementation e.g:OpenSSL, has feature to enable all

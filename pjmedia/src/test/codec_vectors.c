@@ -1,4 +1,4 @@
-/* $Id: codec_vectors.c 5170 2015-08-25 08:45:46Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

@@ -1,4 +1,4 @@
-/* $Id: openh264.cpp 6157 2020-02-05 03:05:30Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C)2014 Teluu Inc. (http://www.teluu.com)
  *

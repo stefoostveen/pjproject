@@ -1,4 +1,4 @@
-/* $Id: ssl_sock_common.c 5725 2018-01-15 08:52:29Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2009-2011 Teluu Inc. (http://www.teluu.com)
  *

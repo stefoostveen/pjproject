@@ -1,4 +1,4 @@
-/* $Id: vid_toolbox.m 6095 2019-10-21 01:58:11Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C)2017 Teluu Inc. (http://www.teluu.com)
  *

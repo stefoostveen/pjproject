@@ -1,4 +1,4 @@
-/* $Id: uri_test.c 5280 2016-04-20 01:58:15Z ming $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

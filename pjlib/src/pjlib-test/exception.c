@@ -1,4 +1,4 @@
-/* $Id: exception.c 5646 2017-09-08 11:16:09Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

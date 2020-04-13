@@ -1,4 +1,4 @@
-/* $Id: ip_helper_generic.c 6079 2019-09-26 11:15:24Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

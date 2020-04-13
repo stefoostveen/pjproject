@@ -1,4 +1,4 @@
-/* $Id: ffmpeg_util.c 6046 2019-07-29 02:25:34Z nanang $ */
+/* $Id$ */
 /*
  * Copyright (C) 2010-2011 Teluu Inc. (http://www.teluu.com)
  *

@@ -1,4 +1,4 @@
-/* $Id: sock_qos_common.c 5445 2016-10-05 09:52:39Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

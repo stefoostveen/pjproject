@@ -1,4 +1,4 @@
-# $Id: 200_ice_success_2.py 5065 2015-04-13 12:14:02Z nanang $
+# $Id$
 import inc_sip as sip
 import inc_sdp as sdp
 

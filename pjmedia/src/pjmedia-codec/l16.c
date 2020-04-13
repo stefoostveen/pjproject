@@ -1,4 +1,4 @@
-/* $Id: l16.c 5791 2018-05-14 01:24:43Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

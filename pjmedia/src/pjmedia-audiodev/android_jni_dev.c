@@ -1,4 +1,4 @@
-/* $Id: android_jni_dev.c 5544 2017-01-24 05:41:05Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2012-2012 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2010-2012 Regis Montoya (aka r3gis - www.r3gis.fr)

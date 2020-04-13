@@ -1,4 +1,4 @@
-/* $Id: dshow_dev.c 5560 2017-02-24 04:21:07Z nanang $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

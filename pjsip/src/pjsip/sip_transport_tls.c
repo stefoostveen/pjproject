@@ -1,4 +1,4 @@
-/* $Id: sip_transport_tls.c 6034 2019-07-01 05:41:29Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2009-2011 Teluu Inc. (http://www.teluu.com)
  *
@@ -217,6 +217,9 @@ static pj_uint32_t ssl_get_proto(pjsip_ssl_method ssl_method, pj_uint32_t proto)
 	break;
     case PJSIP_TLSV1_2_METHOD:
 	out_proto = PJ_SSL_SOCK_PROTO_TLS1_2;
+	break;
+    case PJSIP_TLSV1_3_METHOD:
+	out_proto = PJ_SSL_SOCK_PROTO_TLS1_3;
 	break;
     case PJSIP_SSLV23_METHOD:
 	out_proto = PJ_SSL_SOCK_PROTO_SSL23;

@@ -1,4 +1,4 @@
-# $Id: uac-srtp-dtls-lower-prio.py 6115 2019-12-04 09:01:19Z nanang $
+# $Id$
 #
 import inc_const as const
 

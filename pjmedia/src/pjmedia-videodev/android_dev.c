@@ -1,4 +1,4 @@
-/* $Id: android_dev.c 6050 2019-08-06 05:00:31Z riza $ */
+/* $Id$ */
 /*
  * Copyright (C) 2015 Teluu Inc. (http://www.teluu.com)
  *

@@ -1,4 +1,4 @@
-/* $Id: mp3_writer.c 6112 2019-11-29 04:21:17Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2003-2007 Benny Prijono <benny@prijono.org>
  *

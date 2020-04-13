@@ -1,4 +1,4 @@
-/* $Id: test.h 6004 2019-05-24 03:32:17Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>
@@ -20,6 +20,12 @@
 #include <pjlib.h>
 #include <pjlib-util.h>
 #include <pjnath.h>
+
+#if defined(PJ_EXCLUDE_BENCHMARK_TESTS) && (PJ_EXCLUDE_BENCHMARK_TESTS==1)
+#   define WITH_BENCHMARK	    0
+#else
+#   define WITH_BENCHMARK	    1
+#endif
 
 #define INCLUDE_STUN_TEST	    1
 #define INCLUDE_ICE_TEST	    1

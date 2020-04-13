@@ -1,4 +1,4 @@
-/* $Id: ioqueue_epoll.c 5692 2017-11-13 06:06:25Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>
@@ -755,7 +755,7 @@ PJ_DEF(int) pj_ioqueue_poll( pj_ioqueue_t *ioqueue, const pj_time_val *timeout)
 
     pj_get_timestamp(&t1);
     TRACE_((THIS_FILE, "ioqueue_poll() returns %d, time=%d usec",
-		       processed, pj_elapsed_usec(&t2, &t1)));
+		       processed_cnt, pj_elapsed_usec(&t2, &t1)));
 
     return processed_cnt;
 }

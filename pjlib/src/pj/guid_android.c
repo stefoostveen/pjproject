@@ -1,4 +1,4 @@
-/* $Id: guid_android.c 5563 2017-03-07 03:28:56Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2015-2016 Teluu Inc. (http://www.teluu.com)
  *

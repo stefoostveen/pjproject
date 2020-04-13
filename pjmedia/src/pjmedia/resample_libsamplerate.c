@@ -1,4 +1,4 @@
-/* $Id: resample_libsamplerate.c 5300 2016-05-17 14:31:10Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

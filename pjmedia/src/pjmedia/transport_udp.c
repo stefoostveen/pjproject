@@ -1,4 +1,4 @@
-/* $Id: transport_udp.c 6070 2019-09-23 07:24:24Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

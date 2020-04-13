@@ -1,4 +1,4 @@
-/* $Id: os_core_win32.c 5815 2018-06-29 02:49:04Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

@@ -1,4 +1,4 @@
-/* $Id: dns_test.c 6044 2019-07-26 05:40:42Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>
@@ -398,7 +398,7 @@ static int test_resolve(const char *title,
  */
 static int round_robin_test(pj_pool_t *pool)
 {
-    enum { COUNT = 400, PCT_ALLOWANCE = 5 };
+    enum { COUNT = 400, PCT_ALLOWANCE = 10 };
     unsigned i;
     struct server_hit
     {

@@ -1,4 +1,4 @@
-/* $Id: ssl_sock_imp_common.h 6091 2019-10-11 14:26:12Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2019-2019 Teluu Inc. (http://www.teluu.com)
  *

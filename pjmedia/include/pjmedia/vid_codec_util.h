@@ -1,4 +1,4 @@
-/* $Id: vid_codec_util.h 6110 2019-11-22 06:18:55Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

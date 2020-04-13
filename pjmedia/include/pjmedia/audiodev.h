@@ -1,4 +1,4 @@
-/* $Id: audiodev.h 6094 2019-10-17 07:02:50Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

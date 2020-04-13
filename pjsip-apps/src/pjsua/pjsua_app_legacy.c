@@ -1,4 +1,4 @@
-/* $Id: pjsua_app_legacy.c 6159 2020-02-06 04:02:56Z riza $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

@@ -1,4 +1,4 @@
-/* $Id: ip_helper_winphone8.c 6045 2019-07-26 09:32:14Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

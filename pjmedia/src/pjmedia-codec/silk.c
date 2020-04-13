@@ -1,4 +1,4 @@
-/* $Id: silk.c 5085 2015-05-05 07:48:13Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2012-2012 Teluu Inc. (http://www.teluu.com)
  * Contributed by Regis Montoya (aka r3gis - www.r3gis.fr)

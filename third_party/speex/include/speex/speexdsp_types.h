@@ -12,7 +12,7 @@
  ********************************************************************
 
  function: #ifdef jail to whip a few platforms into the UNIX ideal.
- last mod: $Id: speexdsp_types.h 6130 2020-01-09 10:09:49Z ming $
+ last mod: $Id$
 
  ********************************************************************/
 /**

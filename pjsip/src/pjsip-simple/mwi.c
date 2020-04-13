@@ -1,4 +1,4 @@
-/* $Id: mwi.c 6035 2019-07-01 07:12:43Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

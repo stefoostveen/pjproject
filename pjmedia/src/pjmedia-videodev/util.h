@@ -1,4 +1,4 @@
-/* $Id: util.h 5118 2015-06-25 08:17:52Z ming $ */
+/* $Id$ */
 /*
  * Copyright (C) 2014-2015 Teluu Inc. (http://www.teluu.com)
  *

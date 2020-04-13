@@ -1,4 +1,4 @@
-/* $Id: ice_test.c 5655 2017-09-20 05:04:25Z riza $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

@@ -1,4 +1,4 @@
-/* $Id: ioqueue_common_abs.c 6077 2019-09-24 15:34:33Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

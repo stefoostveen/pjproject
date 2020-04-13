@@ -1,4 +1,4 @@
-/* $Id: timer.h 6099 2019-11-06 06:17:53Z riza $ */
+/* $Id$ */
 /* 
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

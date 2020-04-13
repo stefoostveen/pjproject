@@ -1,4 +1,4 @@
-/* $Id: stun_msg_dump.c 5544 2017-01-24 05:41:05Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

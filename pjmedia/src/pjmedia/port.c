@@ -1,4 +1,4 @@
-/* $Id: port.c 5890 2018-09-24 02:45:20Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

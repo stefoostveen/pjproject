@@ -1,4 +1,4 @@
-/* $Id: endpoint.cpp 6152 2020-02-04 04:47:32Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2013 Teluu Inc. (http://www.teluu.com)
  *

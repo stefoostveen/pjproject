@@ -1,4 +1,4 @@
-/* $Id: sip_timer.c 5806 2018-06-19 10:00:33Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2009-2011 Teluu Inc. (http://www.teluu.com)
  *

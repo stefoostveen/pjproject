@@ -1,4 +1,4 @@
-/* $Id: types.c 6106 2019-11-13 09:11:04Z nanang $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

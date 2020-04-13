@@ -1,4 +1,4 @@
-/* $Id: ssl_sock_gtls.c 6091 2019-10-11 14:26:12Z riza $ */
+/* $Id$ */
 /*
  * Copyright (C) 2018-2018 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2014-2017 Savoir-faire Linux.

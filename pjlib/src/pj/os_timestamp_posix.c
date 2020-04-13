@@ -1,4 +1,4 @@
-/* $Id: os_timestamp_posix.c 5865 2018-08-23 04:42:29Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

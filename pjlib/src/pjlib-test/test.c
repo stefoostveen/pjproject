@@ -1,4 +1,4 @@
-/* $Id: test.c 4728 2014-02-04 10:13:56Z bennylp $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>
@@ -39,7 +39,7 @@ int param_echo_sock_type;
 const char *param_echo_server = ECHO_SERVER_ADDRESS;
 int param_echo_port = ECHO_SERVER_START_PORT;
 int param_log_decor = PJ_LOG_HAS_NEWLINE | PJ_LOG_HAS_TIME |
-		      PJ_LOG_HAS_MICRO_SEC;
+		      PJ_LOG_HAS_MICRO_SEC | PJ_LOG_HAS_INDENT;
 
 int null_func()
 {

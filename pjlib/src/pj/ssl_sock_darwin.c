@@ -1,4 +1,4 @@
-/* $Id: ssl_sock_darwin.c 5957 2019-03-25 01:33:12Z ming $ */
+/* $Id$ */
 /*
  * Copyright (C) 2019-2019 Teluu Inc. (http://www.teluu.com)
  *

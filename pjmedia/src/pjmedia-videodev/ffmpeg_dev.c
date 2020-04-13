@@ -1,4 +1,4 @@
-/* $Id: ffmpeg_dev.c 5441 2016-09-29 04:04:22Z nanang $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

@@ -1,4 +1,4 @@
-/* $Id: transport_srtp_dtls.c 6118 2019-12-16 12:37:57Z riza $ */
+/* $Id$ */
 /*
  * Copyright (C) 2017 Teluu Inc. (http://www.teluu.com)
  *

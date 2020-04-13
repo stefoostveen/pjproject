@@ -1,4 +1,4 @@
-# $Id: uas-answer-183-without-to-tag.py 5844 2018-07-26 03:37:08Z nanang $
+# $Id$
 #
 import inc_const as const
 

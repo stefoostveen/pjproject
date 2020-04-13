@@ -1,4 +1,4 @@
-/* $Id: echo_webrtc.c 6140 2020-01-28 06:58:45Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2011-2015 Teluu Inc. (http://www.teluu.com)
  *

@@ -1,4 +1,4 @@
-/* $Id: sip_auth_client.c 6055 2019-08-28 14:13:32Z riza $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>
@@ -1184,7 +1184,6 @@ PJ_DEF(pj_status_t) pjsip_auth_clt_reinit_req(	pjsip_auth_clt_sess *sess,
 	pjsip_authorization_hdr *hauth;
 
 	/* Find WWW-Authenticate or Proxy-Authenticate header. */
-
 	while (hdr != &rdata->msg_info.msg->hdr &&
 	       hdr->type != PJSIP_H_WWW_AUTHENTICATE &&
 	       hdr->type != PJSIP_H_PROXY_AUTHENTICATE)
@@ -1217,14 +1216,14 @@ PJ_DEF(pj_status_t) pjsip_auth_clt_reinit_req(	pjsip_auth_clt_sess *sess,
 #	    endif
 	    pj_list_insert_before(&sess->cached_auth, cached_auth);
 	}
-
+	
 	/* Create authorization header for this challenge, and update
 	 * authorization session.
 	 */
 	status = process_auth(tdata->pool, hchal, tdata->msg->line.req.uri,
 			      tdata, sess, cached_auth, &hauth);
 	if (status != PJ_SUCCESS){
-		// EDIT: Previously, pjsip analysed one www-auth header, and if it failed (due to unsupported sha-256 digest for example), it returned and did not consider the next www-auth header.
+		// Edited by stef. Previously, pjsip analysed one www-auth header, and if it failed (due to unsupported sha-256 digest for example), it returned and did not consider the next www-auth header.
 		PJ_LOG(4,(THIS_FILE, "Invalid response, moving to next"));
 		//return status;
 		hdr = hdr->next;
@@ -1241,8 +1240,6 @@ PJ_DEF(pj_status_t) pjsip_auth_clt_reinit_req(	pjsip_auth_clt_sess *sess,
 		/* Process next header. */
 		hdr = hdr->next;
 	}
-
-
     }
 
     /* Check if challenge is present */

@@ -1,4 +1,4 @@
-/* $Id: transport_loop.c 6009 2019-05-27 15:01:08Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

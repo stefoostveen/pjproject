@@ -1,4 +1,4 @@
-/* $Id: sock_qos_bsd.c 5635 2017-08-01 07:49:34Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

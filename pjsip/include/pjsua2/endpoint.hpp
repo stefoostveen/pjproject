@@ -1,4 +1,4 @@
-/* $Id: endpoint.hpp 6119 2019-12-17 10:06:01Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2013 Teluu Inc. (http://www.teluu.com)
  *

@@ -1,4 +1,4 @@
-/* $Id: encryption.c 4910 2014-09-01 06:32:50Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

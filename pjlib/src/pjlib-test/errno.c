@@ -1,4 +1,4 @@
-/* $Id: errno.c 5328 2016-05-31 08:11:48Z riza $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

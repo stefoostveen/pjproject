@@ -1,4 +1,4 @@
-/* $Id: ioq_udp.c 5953 2019-03-15 10:22:11Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  * Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>

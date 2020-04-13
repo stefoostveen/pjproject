@@ -1,4 +1,4 @@
-/* $Id: v4l2_dev.c 5001 2015-03-19 05:26:17Z riza $ */
+/* $Id$ */
 /*
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *
@@ -115,7 +115,8 @@ static vid4lin_fmt_map v4l2_fmt_maps[] =
     { PJMEDIA_FORMAT_RGB32,	V4L2_PIX_FMT_BGR32 },
     { PJMEDIA_FORMAT_AYUV,	V4L2_PIX_FMT_YUV32 },
     { PJMEDIA_FORMAT_YUY2,	V4L2_PIX_FMT_YUYV },
-    { PJMEDIA_FORMAT_UYVY,	V4L2_PIX_FMT_UYVY }
+    { PJMEDIA_FORMAT_UYVY,	V4L2_PIX_FMT_UYVY },
+    { PJMEDIA_FORMAT_I420,	V4L2_PIX_FMT_YUV420 }
 };
 
 /* Prototypes */

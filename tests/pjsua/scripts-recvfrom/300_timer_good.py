@@ -1,4 +1,4 @@
-# $Id: 300_timer_good.py 5844 2018-07-26 03:37:08Z nanang $
+# $Id$
 import inc_sip as sip
 import inc_sdp as sdp
 

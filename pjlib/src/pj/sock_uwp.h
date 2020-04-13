@@ -1,4 +1,4 @@
-/* $Id: sock_uwp.h 5539 2017-01-23 04:32:34Z nanang $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2016 Teluu Inc. (http://www.teluu.com)
  *

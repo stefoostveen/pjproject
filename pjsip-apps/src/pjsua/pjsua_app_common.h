@@ -1,4 +1,4 @@
-/* $Id: pjsua_app_common.h 6028 2019-06-13 05:58:18Z ming $ */
+/* $Id$ */
 /* 
  * Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  *

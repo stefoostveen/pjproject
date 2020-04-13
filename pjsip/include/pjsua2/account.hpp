@@ -1,4 +1,4 @@
-/* $Id: account.hpp 6074 2019-09-23 22:47:05Z riza $ */
+/* $Id$ */
 /*
  * Copyright (C) 2013 Teluu Inc. (http://www.teluu.com)
  *
